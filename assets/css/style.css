@@ -1144,3 +1144,20 @@ section {
 .img-fluid {
   border-radius: 20px;
 }
+
+.new {
+  color: #fff;
+  padding: 5px;
+  background: #d3090e;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+.new:hover {
+  background: #fff;
+  border: 1px solid #d3090e;
+  border-radius: 10px;
+}
+
+.newlist {
+  margin-bottom: 10px;
+}
