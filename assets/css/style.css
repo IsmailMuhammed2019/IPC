@@ -35,6 +35,10 @@ p {
   font-size: 1.5em;
 }
 
+li {
+  font-size: larger;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -1136,4 +1140,7 @@ section {
     text-align: center;
     padding: 5px 0;
   }
+}
+.img-fluid {
+  border-radius: 20px;
 }
