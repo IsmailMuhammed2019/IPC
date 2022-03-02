@@ -6,7 +6,7 @@
 */
 
 /*--------------------------------------------------------------
-# General
+# General#d309
 --------------------------------------------------------------*/
 body {
   font-family: poppins, 'Open Sans', sans-serif;
@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #d3090e;
+  color: #39522c;
   text-decoration: none;
 }
 
@@ -49,7 +49,7 @@ li {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #d3090e;
+  background: #39522c;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -62,7 +62,7 @@ li {
 }
 .back-to-top:hover {
   background: #ece7e7;
-  color: #d3090e;
+  color: #39522c;
 }
 .back-to-top.active {
   visibility: visible;
@@ -70,9 +70,9 @@ li {
 }
 .back-to-top i:hover {
   font-size: 24px;
-  color: #d3090e;
+  color: #39522c;
   line-height: 0;
-  border: 1px #d3090e solid;
+  border: 1px #39522c solid;
   border-radius: 50%;
 }
 
@@ -110,7 +110,7 @@ li {
 }
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #d3090e;
+  color: #39522c;
   text-decoration: none;
 }
 #header .logo img {
@@ -159,11 +159,11 @@ li {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover > a {
-  color: #d3090e;
+  color: #39522c;
 }
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #d3090e;
+  background: #39522c;
   color: #fff;
   padding: 12px 25px;
   margin-left: 30px;
@@ -174,8 +174,8 @@ li {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   background: #fff;
-  color: #d3090e;
-  border: 1px solid #d3090e;
+  color: #39522c;
+  border: 1px solid #39522c;
   border-radius: 50px;
 }
 .navbar .dropdown ul {
@@ -208,7 +208,7 @@ li {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover > a {
-  color: #d3090e;
+  color: #39522c;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -239,7 +239,7 @@ li {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #d3090e;
+  color: #39522c;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -297,7 +297,7 @@ li {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover > a {
-  color: #d3090e;
+  color: #39522c;
 }
 .navbar-mobile .getstarted,
 .navbar-mobile .getstarted:focus {
@@ -326,7 +326,7 @@ li {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover > a {
-  color: #d3090e;
+  color: #39522c;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -357,7 +357,7 @@ li {
   font-size: 48px;
   font-weight: 500;
   line-height: 56px;
-  color: #d3090e;
+  color: #39522c;
   font-family: 'Poppins', sans-serif;
 }
 #hero h2 {
@@ -374,13 +374,13 @@ li {
   border-radius: 50px;
   transition: 0.5s;
   color: #fff;
-  background: #d3090e;
+  background: #39522c;
   position: relative;
 }
 #hero .download-btn:hover {
   background: #fff;
-  color: #d3090e;
-  border: 1px solid #d3090e;
+  color: #39522c;
+  border: 1px solid #39522c;
   border-radius: 50px;
 }
 #hero .download-btn i {
@@ -447,7 +447,7 @@ section {
   font-weight: 400;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #d3090e;
+  color: #39522c;
   font-family: 'Poppins', sans-serif;
 
   text-transform: uppercase;
@@ -482,7 +482,7 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #d3090e;
+  color: #39522c;
   content: '/';
 }
 @media (max-width: 768px) {
@@ -514,7 +514,7 @@ section {
 .features .content .icon-box i {
   font-size: 48px;
   float: left;
-  color: #d3090e;
+  color: #39522c;
 }
 .features .content .icon-box p {
   font-size: 15px;
@@ -544,7 +544,7 @@ section {
 .details .content h3 {
   font-weight: 700;
   font-size: 32px;
-  color: #d3090e;
+  color: #39522c;
 }
 .details .content ul {
   list-style: none;
@@ -556,7 +556,7 @@ section {
 .details .content ul i {
   font-size: 24px;
   padding-right: 2px;
-  color: #d3090e;
+  color: #39522c;
   line-height: 0;
 }
 .details .content p:last-child {
@@ -581,10 +581,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #d3090e;
+  border: 1px solid #39522c;
 }
 .gallery .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #d3090e;
+  background-color: #39522c;
 }
 .gallery .swiper-slide-active {
   text-align: center;
@@ -594,7 +594,7 @@ section {
     padding: 40px 0;
   }
   .gallery .swiper-slide-active {
-    border: 6px solid #d3090e;
+    border: 6px solid #39522c;
     padding: 4px;
     background: #fff;
     z-index: 1;
@@ -635,7 +635,7 @@ section {
 }
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #d3090e;
+  color: #39522c;
   margin: 0;
 }
 .testimonials .testimonial-item .quote-icon-left,
@@ -667,10 +667,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #d3090e;
+  border: 1px solid #39522c;
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #d3090e;
+  background-color: #39522c;
 }
 
 /*--------------------------------------------------------------
@@ -693,7 +693,7 @@ section {
 }
 .pricing h4 {
   font-size: 46px;
-  color: #d3090e;
+  color: #39522c;
   font-weight: 400;
   font-family: 'Open Sans', sans-serif;
   margin-bottom: 25px;
@@ -714,7 +714,7 @@ section {
   padding-bottom: 12px;
 }
 .pricing ul i {
-  color: #d3090e;
+  color: #39522c;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -728,7 +728,7 @@ section {
   text-decoration: line-through;
 }
 .pricing .get-started-btn {
-  background: #d3090e;
+  background: #39522c;
   display: inline-block;
   padding: 8px 30px;
   border-radius: 20px;
@@ -740,17 +740,17 @@ section {
   transition: 0.3s;
 }
 .pricing .get-started-btn:hover {
-  background: #d3090e;
+  background: #39522c;
 }
 .pricing .featured {
   z-index: 10;
   margin: -30px -5px 0 -5px;
 }
 .pricing .featured .get-started-btn {
-  background: #d3090e;
+  background: #39522c;
 }
 .pricing .featured .get-started-btn:hover {
-  background: #d3090e;
+  background: #39522c;
 }
 @media (max-width: 992px) {
   .pricing .box {
@@ -806,7 +806,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #d3090e;
+  color: #39522c;
 }
 .faq .accordion-list .icon-show,
 .faq .accordion-list .icon-close {
@@ -852,7 +852,7 @@ section {
 }
 .contact .info i {
   font-size: 48px;
-  color: #d3090e;
+  color: #39522c;
   margin-bottom: 15px;
 }
 .contact .info h4 {
@@ -868,13 +868,13 @@ section {
 }
 .contact .php-email-form {
   width: 100%;
-  color: #d3090e;
+  color: #39522c;
 }
 
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #39522c;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -911,7 +911,7 @@ section {
 .contact .php-email-form label {
   font-family: 'Poppins', sans-serif;
   margin-bottom: 5px;
-  color: #d3090e;
+  color: #39522c;
 }
 .contact .php-email-form input {
   border-radius: 50px;
@@ -925,12 +925,12 @@ section {
 }
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border: solid #d3090e 1px;
+  border: solid #39522c 1px;
   border-radius: 50px;
 }
 
 .contact .php-email-form textarea:focus {
-  border: solid #d3090e 1px;
+  border: solid #39522c 1px;
   border-radius: 5px;
 }
 .contact .php-email-form input {
@@ -941,15 +941,15 @@ section {
 }
 .contact .php-email-form button[type='submit'] {
   background: #fff;
-  border: 2px solid #d3090e;
+  border: 2px solid #39522c;
   padding: 10px 24px;
-  color: #d3090e;
+  color: #39522c;
   transition: 0.4s;
   border-radius: 50px;
   margin-top: 5px;
 }
 .contact .php-email-form button[type='submit']:hover {
-  background: #d3090e;
+  background: #39522c;
   color: #fff;
 }
 @media (max-width: 1024px) {
@@ -1106,7 +1106,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #d3090e;
+  background: #39522c;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1148,13 +1148,13 @@ section {
 .new {
   color: #fff;
   padding: 5px;
-  background: #d3090e;
+  background: #39522c;
   border-radius: 10px;
   margin-bottom: 5px;
 }
 .new:hover {
   background: #fff;
-  border: 1px solid #d3090e;
+  border: 1px solid #39522c;
   border-radius: 10px;
 }
 
